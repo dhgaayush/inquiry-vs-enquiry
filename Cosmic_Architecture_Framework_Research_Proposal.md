@@ -674,7 +674,7 @@ DESI's first three years of data, released in 2025, strengthened hints that the 
 
 The important point for this framework is therefore not that acceleration has been disproven, but that:
 
-> **The cosmological-constant picture remains observationally testable, and evolving effective expansion dynamics create a natural arena in which a horizon/bulk-coupled cosmology can compete with $(\Lambda)$CDM.**
+> **The cosmological-constant picture remains observationally testable, and evolving effective expansion dynamics create a natural arena in which a horizon/bulk-coupled cosmology can compete with $\Lambda$-CDM.**
 
 The hypothesis can therefore seek a relation such as
 
