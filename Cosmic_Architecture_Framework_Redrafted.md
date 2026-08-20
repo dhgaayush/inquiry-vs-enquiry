@@ -3,7 +3,7 @@
 
 ### Status of the proposal
 
-This document is a strengthened research framework rather than a claim that the proposed picture has already been established experimentally.
+This document is a (strengthened) research framework: rather than a claim that the proposed picture has already been established experimentally.
 
 It deliberately separates three layers:
 
@@ -92,13 +92,13 @@ The framework proposes that the hierarchy problem for gravity may be related to 
 
 A schematic hierarchy is
 
-\[
+$$
 \text{Standard Model sector}
 \subset
 \text{daughter spacetime}
 \subset
 \text{higher-dimensional gravitational bulk}.
-\]
+$$
 
 The weakness of gravity must not simply be asserted to follow from “leakage.” Instead, the theory must demonstrate dynamically that the measured four-dimensional Planck scale emerges from the higher-dimensional gravitational scale and the localization/crossover structure.
 
@@ -110,7 +110,7 @@ M_{\rm Pl,4}^2
 M_{\rm grav}^{\,2+d}\,L_{\rm eff}^{\,d},
 $$
 
-where \(d\) is an effective number of extra spatial dimensions and \(L_{\rm eff}\) represents the appropriate geometric/crossover scale. The exact relation is model-dependent.
+where \(d\) is an effective number of extra spatial dimensions and $$(L_{\rm eff})$$ represents the appropriate geometric/crossover scale. The exact relation is model-dependent.
 
 Thus:
 
@@ -185,7 +185,7 @@ Thus the phrase “our universe lives on the horizon” should be interpreted as
 
 # 6. The Big Bang as Horizon Formation
 
-In the proposed picture, the Big Bang is reinterpreted as a transition associated with the formation of the daughter horizon.
+In our proposed picture, the Big Bang is reinterpreted as a transition associated with the formation of the daughter horizon.
 
 A schematic causal chain is
 
@@ -203,7 +203,7 @@ $$
 
 The attraction of this picture is that the classical Big-Bang singularity need not be interpreted as a physical point of infinite density in the daughter description.
 
-However, the framework must be more cautious than the original draft:
+However, we must be more cautious:
 
 > **The model seeks to replace the classical singular initial boundary with a higher-dimensional causal/geometrical boundary condition. It does not automatically prove that all singularities disappear.**
 
@@ -300,7 +300,7 @@ The model must fit solar-system tests, binary-pulsar measurements, laboratory fi
 
 # 9. Gravity Leakage: A More Precise Formulation
 
-The framework retains the central intuition:
+Our framework retains the central intuition:
 
 > **Gravitational degrees of freedom can propagate into dimensions inaccessible to ordinary matter.**
 
@@ -409,7 +409,7 @@ The theory should not assume this equivalence. It must be derived.
 
 # 12. Hawking Radiation and the Dimensional Cascade Hypothesis
 
-The original framework proposed a radical mechanism:
+An (earlier) original framework proposed a radical mechanism:
 
 > a quantum process near a black-hole horizon creates an outgoing degree of freedom that can propagate into a higher-dimensional universe while its partner is associated with a lower-dimensional daughter universe.
 
@@ -455,7 +455,7 @@ $$
 
 The exact meaning of those channels must be defined using a genuine higher-dimensional quantum-gravity calculation.
 
-This is where the framework becomes experimentally distinctive.
+This is where our (newer) framework becomes experimentally distinctive.
 
 ---
 
@@ -1073,23 +1073,23 @@ This is one of the deepest unresolved parts of the framework.
 
 ---
 
-# 33. What the Framework Must Not Claim
+# 33. What our Framework does Not Claim
 
-To make the theory stronger, the following statements are explicitly removed:
+To make the eventual-resulting theory stronger, the following gaps in current modern physics remain yet to be tested that our proposed framework acknowledges:
 
-- “The graviton has already been experimentally observed as an individual particle.”
-- “Hawking radiation from astrophysical black holes has been directly observed.”
-- “Bell experiments prove that all separation is an illusion.”
-- “The brain is experimentally known to be a quantum antenna for a universal consciousness field.”
+- “The graviton has not been experimentally observed as an individual particle.”
+- “Hawking radiation from astrophysical black holes has not been directly observed.”
+- “Bell experiments have not proven that all separation is an illusion, yet.”
+- “The brain is not experimentally known to be a quantum antenna for a universal consciousness field, yet.”
 - “A black-hole horizon is a physical surface preventing matter from falling through.”
 - “The event horizon is where photons simply orbit in place.”
-- “Every black hole has two accretion disks.”
-- “DESI has already proved that cosmic acceleration is slowing.”
-- “The parent star's classical momentum is known to cause the arrow of time.”
+- “Some black holes are "naked", the accretion disk of a black hole forms (not due to the spin of the black hole itself but rather) because of the infalling matter that has its own movement and rotation (angular movement) RELATIVE to the black hole. And a black hole can have two distinct, misaligned, concentric disks orbiting at different angles. Even more, when two black holes are orbiting one another prior to a merger (in a binary system), they can create a three-disk system in which each individual black hole can have its own circumprimary or circumsecondary disk, and both can be wrapped together inside a third, massive circumbinary disk. The implications of such findings have yet to be known." 
+- “DESI has not yet proved that cosmic acceleration is slowing.”
+- “The parent star's classical momentum is not known to cause the arrow of time.”
 - “The holographic principle proves that our universe is a projection.”
 - “Holography automatically implies a recursive chain of universes.”
 
-Removing these claims makes the theory less dramatic rhetorically but dramatically stronger scientifically.
+Acknowledging these claims beforehand makes the theoretical framework less dramatic rhetorically but dramatically stronger scientifically.
 
 ---
 
@@ -1221,7 +1221,7 @@ A model that predicts all of them from the same bulk geometry becomes scientific
 
 # 36. The Strongest Version of the Hypothesis
 
-The revised framework can therefore be stated in one paragraph:
+The (revised) framework can therefore be stated in one paragraph:
 
 > **Our observable universe may be an effective three-spatial-dimensional daughter spacetime associated with the horizon of gravitational collapse in a parent spacetime with one or more additional spatial dimensions. In a string-inspired ultraviolet completion, the massless graviton arises from the closed-string sector and is permitted to access higher-dimensional bulk degrees of freedom, while Standard Model fields are localized to the daughter sector. The resulting dimensional propagation and localization structure may generate a cascading effective gravitational coupling, a modified cosmological expansion law, and a horizon-linked origin for the low-entropy initial condition. The arrow of time is hypothesized to emerge from the causal and thermodynamic orientation of the daughter spacetime relative to its parent geometry. The framework is considered successful only if a single higher-dimensional action yields the observed Newtonian and relativistic limits while making correlated, falsifiable predictions for gravitational waves, equivalence-principle tests, cosmological growth, CMB anisotropy, black-hole observables, and possible bulk-energy leakage.**
 
@@ -1229,7 +1229,7 @@ The revised framework can therefore be stated in one paragraph:
 
 # 37. Relation to Established Physics
 
-The framework should be viewed as an extension of several existing research programs rather than as a claim that those programs have already proved the whole picture.
+This framework should be viewed as an extension of several existing research programs rather than as a claim that those programs have already proved the whole picture.
 
 Its ingredients include:
 
@@ -1266,7 +1266,7 @@ and then to force that hierarchy to make common experimental predictions.
 
 # 38. A Separate Philosophical Layer
 
-The original framework also connected the physics to ideas of cosmic unity, Maya, Akasha, Brahman, Ardhanarishwara, and cyclical cosmology.
+The original (earlier, undisclosed) framework also connected the physics to ideas of cosmic unity, Maya, Akasha, Brahman, Ardhanarishwara, and cyclical cosmology.
 
 Those interpretations can be retained as philosophy, metaphor, or comparative intellectual history.
 
@@ -1292,15 +1292,9 @@ Likewise, a metaphysical correspondence can remain culturally or philosophically
 
 # 39. Final Research Position
 
-The framework is strongest not when it says:
+> **“Thus, Here is provided a coherent radical hypothesis that combines known mathematical structures, identifies exactly where new physics enters, and tells experimentalists where to try to break it.”**
 
-> “We have discovered how the universe really works.”
-
-It is strongest when it says:
-
-> **“Here is a coherent radical hypothesis that combines known mathematical structures, identifies exactly where new physics enters, and tells experimentalists where to try to break it.”**
-
-The central questions become:
+The central questions remain:
 
 1. Does a consistent higher-dimensional action generate the proposed daughter-universe geometry?
 2. Does the closed-string graviton sector produce the required bulk propagation?
