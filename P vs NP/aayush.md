@@ -2,7 +2,7 @@
 
 ## From Complexity Theory to Symmetric TSP, AVL Representation, and the Emerging Search Mathematics
 
-> **Purpose of this document:** Aayush is the mathematical record of the problem-solving path. It is intentionally different from the higher-level _____ research framework. This file emphasizes definitions, derivations, lemmas, algorithmic objects, proof ideas, experimental quantities, and falsification results.
+> **Purpose of this document:** Aayush is the mathematical record of the problem-solving path. It is intentionally different from the higher-level APPLE research framework. This file emphasizes definitions, derivations, lemmas, algorithmic objects, proof ideas, experimental quantities, and falsification results.
 >
 >
 > **Epistemic rule:** A statement is called a theorem/lemma only where its mathematical validity follows from the definitions. Experimental observations and conjectures are labeled separately. Where an earlier derivation is only partially preserved in the current record, the reconstruction is explicitly identified rather than presented as a proof that is no longer available verbatim.
@@ -131,7 +131,7 @@ $$
 |E|=\binom{n}{2}=\frac{n(n-1)}2.
 $$
 
-This quantity was denoted by $m$ in the Aayush construction:
+This quantity is denoted by $m$ in the Aayush construction:
 
 $$
 \boxed{m=\frac{n(n-1)}2}.

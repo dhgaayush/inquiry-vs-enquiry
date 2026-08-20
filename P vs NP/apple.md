@@ -8,7 +8,7 @@
 >
 > This document begins **where Aayush ends**. It does not replace the mathematical notebook. It converts the mathematical state of the project into an organized research program: what was tried, why it was tried, what worked, what failed, what was falsified, and which branch a future researcher should follow next.
 >
-> **Rendering:** use `$...$` for inline mathematics and `$$...$$` for display mathematics so the file can be rendered directly in VS Code/MathJax-compatible Markdown.
+
 
 ---
 
