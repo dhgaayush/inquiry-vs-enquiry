@@ -731,7 +731,7 @@ G_{\rm eff},
 D_{\rm GW}(z),
 \Pi_{\rm GW},
 \cdots
-\right\}.
+\right\}
 $$
 
 This is much stronger than explaining each phenomenon separately.
