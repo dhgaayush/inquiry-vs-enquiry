@@ -1,4 +1,4 @@
-# A Cosmic Architectural Framework
+# does I ever cross your mind; A Cosmic Architectural Framework
 ## A Falsifiable Higher-Dimensional, Holographic, String-Inspired Cosmology
 
 ### Status of the proposal
