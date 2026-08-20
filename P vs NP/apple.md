@@ -1,4 +1,4 @@
-# Aagav Loaded
+# Apple Loaded
 
 ## Research Framework Continuation from `aayush.md`
 
@@ -1433,7 +1433,7 @@ The last arrow is currently the most important untested branch.
 
 # 34. Final Research Principle
 
-Aagav is not a claim that the first analogy was correct.
+Apple is not a claim that the first analogy was correct.
 
 It is a **structured discovery program**.
 
@@ -1463,7 +1463,7 @@ The experiments decide what is worth keeping.
 
 ---
 
-# 35. One-Sentence Handoff from Aayush to Aagav
+# 35. One-Sentence Handoff from Aayush to Apple
 
-> **Aayush established the mathematical representation and experimental objects; Aagav now asks whether the universal structure of Union–Separation–Reunion can generate an instance-dependent action trajectory that predicts the exact Hamiltonian optimum without being given that optimum.**
+> **Aayush established the mathematical representation and experimental objects; Apple now asks whether the universal structure of Union–Separation–Reunion can generate an instance-dependent action trajectory that predicts the exact Hamiltonian optimum without being given that optimum.**
 
