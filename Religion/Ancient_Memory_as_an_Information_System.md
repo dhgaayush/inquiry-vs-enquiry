@@ -1,5 +1,5 @@
-# Ancient Memory as an Information System
-## Archaeology, Oral Transmission, Textual Change, and the Evolution of Metaphysics
+# did the Mahabharata actually happen? ; Ancient Memory as an Information System
+## An Exploration with Archaeology, Oral Transmission, Textual Change, and the Evolution of Metaphysics
 
 > **What are we actually looking for?**
 >
