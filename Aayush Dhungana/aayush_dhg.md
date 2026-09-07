@@ -25,7 +25,7 @@ In all this, physics offers a striking analogy here through the phenomena of qua
 
 Constraint is routinely mistaken for imprisonment. 
 
-Yet structure is not to be perceived as the enemy of agency; it is the very space in which agency becomes intelligible.
+Yet structure should not be perceived as the enemy of agency; it is instead the very space in which agency becomes intelligible.
 
 This relationship can be illuminated by the concept of Līlā—the view of existence as play. 
 
@@ -55,6 +55,6 @@ In any case, the radical reframing of the free agent as the byproduct of recursi
 
 The relentless debate between non-deterministic free will and strict determinism forces an unnecessary choice between being gods or puppets. By shifting the definition of agency, this binary can be abandoned.  
 
-"True" "freedom" was never about escaping reality, stepping outside physical law, or pretending an agent owes nothing to the past. It is a developmental capacity. As an organized system learns, models its environment, identifies its constraints, and refines its internal processing, its capacity to navigate its field of possibilities grows.  
+"True" "freedom" does not remain about escaping reality, stepping outside physical law, or pretending an agent owes nothing to the past. It is a developmental capacity. As an organized system learns, models its environment, identifies its constraints, and refines its internal processing, its capacity to navigate its field of possibilities grows.  
 
 Human existence is constrained, relationally embedded, and bound to an inherited world. Yet organized systems process, respond, and alter what follows. Adopting the framework of constrained agency allows for an end to the demand for an escape from the structure of the universe, offering instead a way to take participation inside that structure seriously.
